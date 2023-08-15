@@ -8,7 +8,6 @@
 
 [![Version](https://img.shields.io/npm/v/vue-paycard.svg)](https://www.npmjs.com/package/vue-paycard-portuguese)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
-[![Downloads](https://img.shields.io/npm/dt/vue-paycard.svg)](https://www.npmjs.com/package/vue-paycard)
 
 > This component is based on <a href="https://github.com/muhammederdem/vue-interactive-paycard" target="_blank">Vue Interactive Paycard</a>. All the credits for the component (idea, design, images, core code) goes to it </br></br>
 > This project only exports the Card component, **you** will need to create your own form
